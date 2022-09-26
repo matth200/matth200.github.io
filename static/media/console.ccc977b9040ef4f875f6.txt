@@ -14,8 +14,25 @@ make
 $$$g++ -o app_cv main.cpp -lInsaneLibrairy
 ./app_cv
 $$$Starting up the presentation
-$$$...
-$$$Skill:
-$$$-c++        -git
-$$$-javascript {red}-react{/red}
-$$$...
+$$$
+$$$Skills:
+$$$-c++        -c
+$$$-javascript -react
+$$$-python     -sql
+$$$-mongodb    -html
+$$$-css        -sass
+$$$
+$$$langages:
+$$$-French  [###############]
+$$$-English [############   ]
+$$$-German  [########       ]
+$$$
+$$$Level in Maths and Physics:
+$$$Maths    {############   }
+$$$Physics  {############   }
+$$$
+$$$In general, I have great Idea in coding and engineering (original Idea)
+$$$I work and learn by myself with project like this CV
+$$$If you look at my github, there are few of them
+
+
