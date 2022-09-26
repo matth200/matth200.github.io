@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.23bd4d16.css",
-    "main.js": "/static/js/main.44515c1d.js",
+    "main.js": "/static/js/main.27562b59.js",
     "static/media/moi.png": "/static/media/moi.07513756a69c7e73c65f.png",
     "static/media/digitalix.ttf": "/static/media/digitalix.b9ad5cd77a82ecb566ab.ttf",
     "static/media/nokiafc22.ttf": "/static/media/nokiafc22.04dc8b649b961470b957.ttf",
@@ -9,10 +9,10 @@
     "static/media/console.txt": "/static/media/console.fe7d707b0b307e9ac461.txt",
     "index.html": "/index.html",
     "main.23bd4d16.css.map": "/static/css/main.23bd4d16.css.map",
-    "main.44515c1d.js.map": "/static/js/main.44515c1d.js.map"
+    "main.27562b59.js.map": "/static/js/main.27562b59.js.map"
   },
   "entrypoints": [
     "static/css/main.23bd4d16.css",
-    "static/js/main.44515c1d.js"
+    "static/js/main.27562b59.js"
   ]
 }
