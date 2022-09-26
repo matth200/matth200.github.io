@@ -1,0 +1,45 @@
+$$$ __ __ __   ______   __       ______   ______   ___ __ __   ______
+$$$/_//_//_/\ /_____/\ /_/\     /_____/\ /_____/\ /__//_//_/\ /_____/\   
+$$$\:\\:\\:\ \\::::_\/_\:\ \    \:::__\/ \:::_ \ \\::\| \| \ \\::::_\/_      
+$$$ \:\\:\\:\ \\:\/___/\\:\ \    \:\ \  __\:\ \ \ \\:.      \ \\:\/___/\  
+$$$  \:\\:\\:\ \\::___\/_\:\ \____\:\ \/_/\\:\ \ \ \\:.\-/\  \ \\::___\/_ 
+$$$   \:\\:\\:\ \\:\____/\\:\/___/\\:\_\ \ \\:\_\ \ \\. \  \  \ \\:\____/\
+$$$    \_______\/ \_____\/ \_____\/ \_____\/ \_____\/ \__\/ \__\/ \_____\/
+$$$ 
+$$$              ___   ___   ______   ______    ______ 
+$$$             /__/\ /__/\ /_____/\ /_____/\  /_____/\
+$$$             \::\ \\  \ \\::::_\/_\:::_ \ \ \::::_\/_
+$$$              \::\/_\ .\ \\:\/___/\\:(_) ) )_\:\/___/\ 
+$$$               \:: ___::\ \\::___\/_\: __ `\ \\::___\/_
+$$$                \: \ \\::\ \\:\____/\\ \ `\ \ \\:\____/\
+$$$                 \__\/ \::\/ \_____\/ \_\/ \_\/ \_____\/ 
+$$$ 
+$$$ 
+$$$ You just arrived in my curiculum vitae
+$$$ It will introduce myself
+$$$ hope you will enjoy my profile !                             
+make
+$$$g++ -o app_cv main.cpp -lInsaneLibrairy
+./app_cv
+$$$Starting up the presentation
+$$$
+$$$Skills:
+$$$-c++        -c
+$$$-javascript -react
+$$$-python     -sql
+$$$-mongodb    -html
+$$$-css        -sass
+$$$ 
+$$$langages:
+$$$-French  [###############]
+$$$-English [############   ]
+$$$-German  [########       ]
+$$$ 
+$$$Level in Maths and Physics:
+$$$Maths    {############   }
+$$$Physics  {############   }
+$$$ 
+$$$In general, I have great Idea in coding and engineering (original Idea)
+$$$I work and learn by myself with project like this CV
+$$$If you look at my github, there are few of them on it
+Still working on the interactive shell...
