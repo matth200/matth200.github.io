@@ -33,13 +33,19 @@ $$$
 $$$langages:
 $$$-French  [###############]
 $$$-English [############   ]
-$$$-German  [########       ]
+$$$-German  [#######        ]
 $$$ 
 $$$Level in Maths and Physics:
 $$$Maths    {############   }
 $$$Physics  {############   }
 $$$ 
-$$$In general, I have great Idea in coding and engineering (original Idea)
+$$$I have knowledge in the OSI model and I have already done 
+$$$manipulation of network packets with scapy in python
+$$$and also with raw socket in c/c++
+$$$Network  [[########     ]]
+$$$ 
+$$$ 
+$$$Generally, I have great idea in coding and engineering (original idea)
 $$$I work and learn by myself with project like this CV
 $$$If you look at my github, there are few of them on it
 Still working on the interactive shell...
