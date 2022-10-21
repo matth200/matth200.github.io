@@ -35,10 +35,6 @@ $$$-French  [###############]
 $$$-English [############   ]
 $$$-German  [#######        ]
 $$$ 
-$$$Level in Maths and Physics:
-$$$Maths    {############   }
-$$$Physics  {############   }
-$$$ 
 $$$I have knowledge in the OSI model and I have already done 
 $$$manipulation of network packets with scapy in python
 $$$and also with raw socket in c/c++

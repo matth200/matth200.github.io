@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.dc767b3e.css",
-    "main.js": "/static/js/main.e62088ce.js",
+    "main.js": "/static/js/main.8c70d3ae.js",
     "static/media/moi.png": "/static/media/moi.07513756a69c7e73c65f.png",
     "static/media/digitalix.ttf": "/static/media/digitalix.b9ad5cd77a82ecb566ab.ttf",
     "static/media/nokiafc22.ttf": "/static/media/nokiafc22.04dc8b649b961470b957.ttf",
     "static/media/Minecraft.ttf": "/static/media/Minecraft.81f6c7f882fcc2dee106.ttf",
-    "static/media/console.txt": "/static/media/console.f498bdbf3674aaf2821e.txt",
+    "static/media/console.txt": "/static/media/console.2855310d003797615f3a.txt",
     "index.html": "/index.html",
     "main.dc767b3e.css.map": "/static/css/main.dc767b3e.css.map",
-    "main.e62088ce.js.map": "/static/js/main.e62088ce.js.map"
+    "main.8c70d3ae.js.map": "/static/js/main.8c70d3ae.js.map"
   },
   "entrypoints": [
     "static/css/main.dc767b3e.css",
-    "static/js/main.e62088ce.js"
+    "static/js/main.8c70d3ae.js"
   ]
 }
