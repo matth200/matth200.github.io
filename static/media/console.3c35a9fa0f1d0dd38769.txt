@@ -24,11 +24,16 @@ $$$g++ -o app_cv main.cpp -lInsaneLibrairy
 $$$Starting up the presentation
 $$$
 $$$Skills:
+$$$-bash       -python
 $$$-c++        -c
-$$$-javascript -react
-$$$-python     -sql
-$$$-mongodb    -html
+$$$//web frontend/backend
+$$$-javascript -reactjs
+$$$-php        -html
+$$$-mongodb    -sql
 $$$-css        -sass
+$$$//mobile application
+$$$-java       -react native
+$$$
 $$$ 
 $$$langages:
 $$$-French  [###############]
