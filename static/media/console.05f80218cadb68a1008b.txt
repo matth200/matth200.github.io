@@ -1,0 +1,63 @@
+$$$ __ __ __   ______   __       ______   ______   ___ __ __   ______
+$$$/_//_//_/\ /_____/\ /_/\     /_____/\ /_____/\ /__//_//_/\ /_____/\   
+$$$\:\\:\\:\ \\::::_\/_\:\ \    \:::__\/ \:::_ \ \\::\| \| \ \\::::_\/_      
+$$$ \:\\:\\:\ \\:\/___/\\:\ \    \:\ \  __\:\ \ \ \\:.      \ \\:\/___/\  
+$$$  \:\\:\\:\ \\::___\/_\:\ \____\:\ \/_/\\:\ \ \ \\:.\-/\  \ \\::___\/_ 
+$$$   \:\\:\\:\ \\:\____/\\:\/___/\\:\_\ \ \\:\_\ \ \\. \  \  \ \\:\____/\
+$$$    \_______\/ \_____\/ \_____\/ \_____\/ \_____\/ \__\/ \__\/ \_____\/
+$$$ 
+$$$              ___   ___   ______   ______    ______ 
+$$$             /__/\ /__/\ /_____/\ /_____/\  /_____/\
+$$$             \::\ \\  \ \\::::_\/_\:::_ \ \ \::::_\/_
+$$$              \::\/_\ .\ \\:\/___/\\:(_) ) )_\:\/___/\ 
+$$$               \:: ___::\ \\::___\/_\: __ `\ \\::___\/_
+$$$                \: \ \\::\ \\:\____/\\ \ `\ \ \\:\____/\
+$$$                 \__\/ \::\/ \_____\/ \_\/ \_\/ \_____\/ 
+$$$ 
+$$$ 
+$$$You've just arrived at my curriculum vitae.
+$$$Allow me to introduce myself.
+$$$I hope you'll enjoy exploring my profile!                             
+make
+$$$g++ -o app_cv main.cpp -lInsaneLibrairy
+./app_cv
+$$$Commencing presentation...
+$$$
+$$$Skills:
+$$$- Bash       - Python
+$$$- C++        - C
+$$$// Web Frontend/Backend
+$$$- JavaScript - ReactJS
+$$$- PHP        - HTML
+$$$- MongoDB    - SQL
+$$$- CSS        - SASS
+$$$// Mobile Application
+$$$- Java       - React Native
+$$$// Tools
+$$$- linux/debian - Wireshark
+$$$- Android Studio - Docker
+$$$...
+$$$ 
+$$$Languages:
+$$$- French  [###############]
+$$$- English [############   ]
+$$$- German  [#######        ]
+$$$ 
+$$$I possess knowledge of the OSI model and have experience in 
+$$$manipulating network packets using Scapy in Python
+$$$as well as with raw socket in C/C++.
+$$$Network  [[########     ]]
+$$$ 
+$$$ 
+$$$Generally, I excel in coding and engineering (I'm known for my original ideas).
+$$$I am a self-driven learner and worker, evident in projects like this CV.
+$$$If you peruse my GitHub, you'll find a few of these projects there.
+$$$
+$$$
+$$$
+$$$
+$$$I am a highly motivated individual. Once I have an idea in mind or encounter a problem that eludes resolution,
+$$$I am compelled to persist until I succeed. This determination propels my continuous self-improvement.
+$$$I operate as a software entrepreneur, specializing in web, mobile, PC, and embedded software development.
+$$$Additionally, I collaborate with my school's Junior Enterprise, undertaking paid IT projects.
+$$$Presently, I am pursuing my studies abroad in Sweden at Linköping University.
