@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.dc767b3e.css",
-    "main.js": "/static/js/main.69092048.js",
+    "main.css": "/static/css/main.6ab00a8f.css",
+    "main.js": "/static/js/main.fe2eb542.js",
     "static/media/moi.png": "/static/media/moi.07513756a69c7e73c65f.png",
     "static/media/digitalix.ttf": "/static/media/digitalix.b9ad5cd77a82ecb566ab.ttf",
     "static/media/nokiafc22.ttf": "/static/media/nokiafc22.04dc8b649b961470b957.ttf",
     "static/media/Minecraft.ttf": "/static/media/Minecraft.81f6c7f882fcc2dee106.ttf",
-    "static/media/console.txt": "/static/media/console.05f80218cadb68a1008b.txt",
-    "index.html": "/index.html",
-    "main.dc767b3e.css.map": "/static/css/main.dc767b3e.css.map",
-    "main.69092048.js.map": "/static/js/main.69092048.js.map"
+    "static/media/console.txt": "/static/media/console.d03de3f3ed2c67d3a744.txt",
+    "static/media/app_cv.txt": "/static/media/app_cv.e0ddbcfaf68d39c90fbb.txt",
+    "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.dc767b3e.css",
-    "static/js/main.69092048.js"
+    "static/css/main.6ab00a8f.css",
+    "static/js/main.fe2eb542.js"
   ]
 }

@@ -1,0 +1,49 @@
+Starting up presentation...
+
+Skills:
+- Bash       - Python
+- C++        - C 
+- Golang     
+// Web Frontend/Backend
+- JavaScript - ReactJS
+- PHP        - HTML
+- MongoDB    - SQL 
+- CSS        - SASS
+- AngularJS
+// Mobile Application
+- Java       - React Native
+// Tools
+- linux/debian - Wireshark
+- Android Studio - Docker
+- Altium        - Fusion 360
+- Openvpn       - Ansible
+- Kubernetes    - Docker
+...
+
+ 
+Languages:
+- French  [###############]
+- English [############   ]   
+- German  [#######        ]   
+ 
+I possess knowledge of the OSI model and have experience in  
+manipulating network packets using Scapy in Python
+as well as with raw socket in C/C++.
+Network  [[##########   ]]  
+
+
+ 
+ 
+Generally, I excel in coding and engineering (I'm known for my original ideas).
+I am a self-driven learner and worker, evident in projects like this CV. 
+If you peruse my GitHub, you'll find a few of these projects there.
+Other than that I really love Cybersecurity and this is one of my number one interest in all my projects.
+
+
+
+
+I am a highly motivated individual. Once I have an idea in mind or encounter a problem that eludes resolution,
+I am compelled to persist until I succeed. This determination propels my continuous self-improvement.
+I operate as a software entrepreneur, specializing in web, mobile, PC, and embedded software development.
+Additionally, I collaborate with my school's Junior Enterprise, undertaking paid IT projects.
+Presently, I am doing a master in Cybersecurity at the University of Nancy in France.
