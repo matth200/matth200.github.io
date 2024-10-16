@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6ab00a8f.css",
-    "main.js": "/static/js/main.87edc305.js",
+    "main.js": "/static/js/main.503ed2ab.js",
     "static/media/moi.png": "/static/media/moi.07513756a69c7e73c65f.png",
     "static/media/digitalix.ttf": "/static/media/digitalix.b9ad5cd77a82ecb566ab.ttf",
     "static/media/nokiafc22.ttf": "/static/media/nokiafc22.04dc8b649b961470b957.ttf",
@@ -12,6 +12,6 @@
   },
   "entrypoints": [
     "static/css/main.6ab00a8f.css",
-    "static/js/main.87edc305.js"
+    "static/js/main.503ed2ab.js"
   ]
 }
